@@ -12,7 +12,7 @@ class UserConfig {
 </ label="--------  Main theme layout  --------", help="Show or hide additional images", order=1 /> uct1="select below";
    </ label="Select listbox, wheel, vert_wheel", help="Select wheel type or listbox", options="vert_wheel", order=4 /> enable_list_type="vert_wheel";
    </ label="Select spinwheel art", help="The artwork to spin", options="marquee,wheel", order=5 /> orbit_art="wheel";
-   </ label="Wheel transition time", help="Time in milliseconds for wheel spin.", order=6 /> transition_ms="25";  
+   </ label="Wheel transition time", help="Time in milliseconds for wheel spin.", order=6 /> transition_ms="35";  
 </ label=" ", help=" ", options=" ", order=7 /> divider1="";
 </ label="--------    Extra images     --------", help="Show or hide additional images", order=8 /> uct2="select below";
    </ label="Enable box art", help="Select box art", options="Yes,No", order=9 /> enable_gboxart="No"; 
