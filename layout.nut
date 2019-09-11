@@ -58,6 +58,7 @@ if ( my_config["enable_static"] == "Yes" )
 }
  else
  {
+ const SNAPBG_ALPHA = 0;
  local temp = fe.add_text("", flx*0.155, fly*0.07, flw*0.69, flh*0.57 );
  temp.bg_alpha = SNAPBG_ALPHA;
  }
